@@ -47,13 +47,13 @@ Built an end-to-end data analytics solution using MySQL and Power BI to analyze 
 
 ##  Dashboard Preview
 
-![Dashboard](your-dashboard-image-link-here)
+![Dashboard]("C:\Users\leonb\OneDrive\Pictures\Screenshots\Dashboard(Page 1).png.png","C:\Users\leonb\OneDrive\Pictures\Screenshots\Dashboard (Page 2).png.png")
 
 ---
 
 ##  Data Model
 
-![Data Model](your-data-model-image-link-here)
+![Data Model]("C:\Users\leonb\OneDrive\Pictures\Screenshots\Model.png.png")
 
 ---
 
