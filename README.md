@@ -45,15 +45,14 @@ Built an end-to-end data analytics solution using MySQL and Power BI to analyze 
 
 ---
 
-##  Dashboard Preview
+## Dashboard Preview
 
-![Dashboard]()
+| Overview | Insights |
+|---------|---------|
+| ![Overview](./Overview.png) | ![Insights](./Insights.png) |
 
----
-
-##  Data Model
-
-![Data Model]()
+## Data Model
+![Data Model](./Model.png)
 
 ---
 
