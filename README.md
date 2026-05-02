@@ -1,4 +1,4 @@
-# 📊 Inventory Sales Analytics Dashboard (SQL + Power BI)
+# Inventory Sales Analytics Dashboard (SQL + Power BI)
 
 ##  Project Overview
 Built an end-to-end data analytics solution using MySQL and Power BI to analyze inventory and sales performance. Designed a relational database, performed data extraction and transformation using SQL, and developed an interactive dashboard to deliver actionable business insights.
